@@ -1,5 +1,3 @@
-command to run this program
----------------------------
+App Name : Quiz App
 
-java -jar quizapp.jar
-
+Run : java -jar quizapp.jar
